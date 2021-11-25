@@ -1,0 +1,17 @@
+.myimage {
+  width: 300px;
+}
+.myhobbies {
+  color: red;
+}
+.myhobbies {
+  background-color: seagreen;
+}
+
+html {
+  font-family: serif;
+
+  -ms-text-size-adjust: 50%;
+
+  -webkit-text-size-adjust: 100%;
+
